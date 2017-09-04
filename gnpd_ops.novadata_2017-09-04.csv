@@ -1,0 +1,1092 @@
+Batch ID,Entry ID,Entry Type,Super Category,Shipping Info,Dispatched Date,Product Cost,Agency Margin,Country
+73684,1,New Product,Food,Shipped Full,2017-08-07 16:23:08,3.79,7.35,Portugal
+73684,2,New Product,Food,Shipped Full,2017-08-07 16:23:08,3.79,7.35,Portugal
+73684,3,New Product,Food,Shipped Full,2017-08-07 16:23:08,3.46,7.68,Portugal
+73684,4,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,3.79,7.35,Portugal
+73684,5,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,2.69,8.45,Portugal
+73684,6,New Product,Beauty & Personal Care,Not Shipped,2017-08-07 16:23:08,1.35,9.79,Portugal
+73684,7,New Product,Healthcare,Shipped Full,2017-08-07 16:23:08,0.99,10.15,Portugal
+73684,8,New Product,Healthcare,Shipped Full,2017-08-07 16:23:08,1.49,9.65,Portugal
+73684,9,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,3.95,7.19,Portugal
+73684,10,New Product,Healthcare,Shipped Full,2017-08-07 16:23:08,1.05,10.09,Portugal
+73684,11,New Product,Food,Shipped Full,2017-08-07 16:23:08,0.99,10.15,Portugal
+73684,12,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,9.99,1.15,Portugal
+73684,13,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,8.09,3.05,Portugal
+73684,14,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,9.29,1.85,Portugal
+73684,15,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,11.49,-0.35,Portugal
+73684,16,New Product,Healthcare,Shipped Full,2017-08-07 16:23:08,7.99,3.15,Portugal
+73684,17,New Product,Food,Shipped Full,2017-08-07 16:23:08,3.99,7.15,Portugal
+73684,18,New Product,Food,Empty Packaging,2017-08-07 16:23:08,5.49,5.65,Portugal
+73684,19,New Product,Food,Shipped Full,2017-08-07 16:23:08,2.79,8.35,Portugal
+73684,20,Variety,Food,Shipped Full,2017-08-07 16:23:08,2.79,4.95,Portugal
+73684,21,Variety,Food,Shipped Full,2017-08-07 16:23:08,2.79,4.95,Portugal
+73684,22,New Product,Healthcare,Shipped Full,2017-08-07 16:23:08,1.39,9.75,Portugal
+73684,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,2.79,8.35,Portugal
+73684,24,New Product,Drink,Empty Packaging,2017-08-07 16:23:08,3.99,7.15,Portugal
+73684,25,New Product,Healthcare,Shipped Full,2017-08-07 16:23:08,3.49,7.65,Portugal
+73684,26,New Product,Food,Empty Packaging,2017-08-07 16:23:08,4.89,6.25,Portugal
+73684,27,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,4.99,6.15,Portugal
+73684,28,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,4.99,6.15,Portugal
+73684,29,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,3.79,7.35,Portugal
+73684,30,New Product,Food,Empty Packaging,2017-08-07 16:23:08,1.99,9.15,Portugal
+73684,31,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,2.01,9.13,Portugal
+73684,32,New Product,Food,Shipped Full,2017-08-07 16:23:08,4.99,6.15,Portugal
+73684,33,Variety,Food,Shipped Full,2017-08-07 16:23:08,4.99,2.75,Portugal
+73684,34,Variety,Food,Shipped Full,2017-08-07 16:23:08,4.99,2.75,Portugal
+73684,35,Variety,Food,Shipped Full,2017-08-07 16:23:08,4.99,2.75,Portugal
+73684,36,Variety,Food,Shipped Full,2017-08-07 16:23:08,3.99,3.75,Portugal
+73684,37,New Product,Drink,Empty Packaging,2017-08-07 16:23:08,4.70,6.44,Portugal
+73684,38,New Product,Food,Empty Packaging,2017-08-07 16:23:08,3.69,7.45,Portugal
+73684,39,Variety,Food,Empty Packaging,2017-08-07 16:23:08,3.69,4.05,Portugal
+73684,40,New Product,Household,Empty Packaging,2017-08-07 16:23:08,6.74,4.40,Portugal
+73684,41,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,9.15,1.99,Portugal
+73684,42,New Product,Food,Shipped Full,2017-08-07 16:23:08,1.85,9.29,Portugal
+73684,43,New Product,Food,Shipped Full,2017-08-07 16:23:08,2.50,8.64,Portugal
+73684,44,Variety,Food,Shipped Full,2017-08-07 16:23:08,2.50,5.24,Portugal
+73684,45,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,7.25,3.89,Portugal
+73684,46,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,10.75,0.39,Portugal
+73684,47,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,6.99,4.15,Portugal
+73684,48,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,11.99,-0.85,Portugal
+73684,49,New Product,Food,Empty Packaging,2017-08-07 16:23:08,2.99,8.15,Portugal
+73684,50,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,5.89,5.25,Portugal
+73684,51,New Product,Beauty & Personal Care,Empty Packaging,2017-08-07 16:23:08,5.39,5.75,Portugal
+73684,52,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,3.85,7.29,Portugal
+73684,53,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,3.09,8.05,Portugal
+73684,54,New Product,Drink,Empty Packaging,2017-08-07 16:23:08,1.49,9.65,Portugal
+73684,55,New Product,Beauty & Personal Care,Shipped Full,2017-08-07 16:23:08,3.89,7.25,Portugal
+73684,56,New Product,Food,Empty Packaging,2017-08-07 16:23:08,3.99,7.15,Portugal
+73684,57,New Product,Food,Shipped Full,2017-08-07 16:23:08,2.65,8.49,Portugal
+73684,58,New Product,Food,Shipped Full,2017-08-07 16:23:08,0.99,10.15,Portugal
+73684,59,New Product,Food,Empty Packaging,2017-08-07 16:23:08,4.49,6.65,Portugal
+73684,60,New Product,Drink,Empty Packaging,2017-08-07 16:23:08,2.99,8.15,Portugal
+73684,61,New Product,Food,Empty Packaging,2017-08-07 16:23:08,2.17,8.97,Portugal
+73684,62,New Product,Food,Empty Packaging,2017-08-07 16:23:08,2.69,8.45,Portugal
+73684,63,New Product,Food,Empty Packaging,2017-08-07 16:23:08,3.99,7.15,Portugal
+73684,64,New Product,Beauty & Personal Care,Not Shipped,2017-08-07 16:23:08,10.99,0.15,Portugal
+73684,65,New Product,Food,Empty Packaging,2017-08-07 16:23:08,5.49,5.65,Portugal
+73684,66,Variety,Food,Empty Packaging,2017-08-07 16:23:08,5.49,2.25,Portugal
+73684,67,New Product,Food,Shipped Full,2017-08-07 16:23:08,1.89,9.25,Portugal
+73684,68,New Product,Household,Shipped Full,2017-08-07 16:23:08,3.29,7.85,Portugal
+73684,69,New Product,Food,Shipped Full,2017-08-07 16:23:08,1.59,9.55,Portugal
+73684,70,New Product,Drink,Shipped Full,2017-08-07 16:23:08,10.60,0.54,Portugal
+73684,71,New Product,Food,Empty Packaging,2017-08-07 16:23:08,2.49,8.65,Portugal
+74079,1,New Product,Food,Shipped Full,2017-08-21 15:03:22,1.49,9.65,Portugal
+74079,2,Variety,Food,Shipped Full,2017-08-21 15:03:22,1.49,6.25,Portugal
+74079,3,Variety,Food,Shipped Full,2017-08-21 15:03:22,1.49,6.25,Portugal
+74079,4,New Product,Food,Shipped Full,2017-08-21 15:03:22,2.59,8.55,Portugal
+74079,5,Variety,Food,Shipped Full,2017-08-21 15:03:22,2.59,5.15,Portugal
+74079,6,New Product,Food,Shipped Full,2017-08-21 15:03:22,1.99,9.15,Portugal
+74079,7,Variety,Food,Shipped Full,2017-08-21 15:03:22,1.99,5.75,Portugal
+74079,8,Variety,Food,Shipped Full,2017-08-21 15:03:22,1.99,5.75,Portugal
+74079,9,New Product,Food,Shipped Full,2017-08-21 15:03:22,2.79,8.35,Portugal
+74079,10,New Product,Food,Shipped Full,2017-08-21 15:03:22,1.49,9.65,Portugal
+74079,11,New Product,Food,Shipped Full,2017-08-21 15:03:22,1.69,9.45,Portugal
+74079,12,New Product,Food,Shipped Full,2017-08-21 15:03:22,1.49,9.65,Portugal
+74079,13,New Product,Drink,Empty Packaging,2017-08-21 15:03:22,1.39,9.75,Portugal
+74079,14,Variety,Drink,Empty Packaging,2017-08-21 15:03:22,1.39,6.35,Portugal
+74079,15,New Product,Drink,Empty Packaging,2017-08-21 15:03:22,0.99,10.15,Portugal
+74079,16,New Product,Drink,Shipped Full,2017-08-21 15:03:22,4.99,6.15,Portugal
+74079,17,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,1.99,9.15,Portugal
+74079,18,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,5.05,6.09,Portugal
+74079,19,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,4.89,6.25,Portugal
+74079,20,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,5.19,5.95,Portugal
+74079,21,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,10.20,0.94,Portugal
+74079,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,11.99,-0.85,Portugal
+74079,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,1.89,9.25,Portugal
+74079,24,New Product,Beauty & Personal Care,Not Shipped,2017-08-21 15:03:22,9.99,1.15,Portugal
+74079,25,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,0.75,10.39,Portugal
+74079,26,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,14.99,-3.85,Portugal
+74079,27,New Product,Drink,Shipped Full,2017-08-21 15:03:22,2.99,8.15,Portugal
+74079,28,New Product,Food,Shipped Full,2017-08-21 15:03:22,2.59,8.55,Portugal
+74079,29,Variety,Food,Shipped Full,2017-08-21 15:03:22,2.59,5.15,Portugal
+74079,30,Variety,Food,Shipped Full,2017-08-21 15:03:22,2.79,4.95,Portugal
+74079,31,New Product,Food,Empty Packaging,2017-08-21 15:03:22,3.99,7.15,Portugal
+74079,32,New Product,Food,Empty Packaging,2017-08-21 15:03:22,2.19,8.95,Portugal
+74079,33,New Product,Food,Shipped Full,2017-08-21 15:03:22,2.49,8.65,Portugal
+74079,34,Variety,Food,Shipped Full,2017-08-21 15:03:22,2.49,5.25,Portugal
+74079,35,New Product,Food,Empty Packaging,2017-08-21 15:03:22,3.49,7.65,Portugal
+74079,36,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,1.99,9.15,Portugal
+74079,37,New Product,Food,Empty Packaging,2017-08-21 15:03:22,0.99,10.15,Portugal
+74079,38,New Product,Food,Empty Packaging,2017-08-21 15:03:22,4.99,6.15,Portugal
+74079,39,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,1.49,9.65,Portugal
+74079,40,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,1.49,9.65,Portugal
+74079,41,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,9.69,1.45,Portugal
+74079,42,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,21.70,-10.56,Portugal
+74079,43,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,5.99,5.15,Portugal
+74079,44,New Product,Beauty & Personal Care,Not Shipped,2017-08-21 15:03:22,7.99,3.15,Portugal
+74079,45,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,4.99,6.15,Portugal
+74079,46,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,5.49,5.65,Portugal
+74079,47,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,3.79,7.35,Portugal
+74079,48,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,3.99,7.15,Portugal
+74079,49,New Product,Food,Shipped Full,2017-08-21 15:03:22,2.39,8.75,Portugal
+74079,50,New Product,Food,Shipped Full,2017-08-21 15:03:22,0.89,10.25,Portugal
+74079,51,New Product,Food,Shipped Full,2017-08-21 15:03:22,1.99,9.15,Portugal
+74079,52,Variety,Food,Shipped Full,2017-08-21 15:03:22,1.99,5.75,Portugal
+74079,53,New Product,Food,Empty Packaging,2017-08-21 15:03:22,3.99,7.15,Portugal
+74079,54,Variety,Food,Empty Packaging,2017-08-21 15:03:22,4.99,2.75,Portugal
+74079,55,Variety,Food,Empty Packaging,2017-08-21 15:03:22,9.49,-1.75,Portugal
+74079,56,New Product,Food,Empty Packaging,2017-08-21 15:03:22,0.99,10.15,Portugal
+74079,57,Variety,Food,Empty Packaging,2017-08-21 15:03:22,1.69,6.05,Portugal
+74079,58,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,1.69,9.45,Portugal
+74079,59,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,3.49,7.65,Portugal
+74079,60,New Product,Food,Empty Packaging,2017-08-21 15:03:22,3.99,7.15,Portugal
+74079,61,Variety,Food,Empty Packaging,2017-08-21 15:03:22,3.99,3.75,Portugal
+74079,62,New Product,Food,Empty Packaging,2017-08-21 15:03:22,1.69,9.45,Portugal
+74079,63,Variety,Food,Empty Packaging,2017-08-21 15:03:22,1.69,6.05,Portugal
+74079,64,New Product,Food,Empty Packaging,2017-08-21 15:03:22,2.39,8.75,Portugal
+74079,65,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,14.99,-3.85,Portugal
+74079,66,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,4.09,7.05,Portugal
+74079,67,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,5.99,5.15,Portugal
+74079,68,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,11.99,-0.85,Portugal
+74079,69,New Product,Beauty & Personal Care,Shipped Full,2017-08-21 15:03:22,7.99,3.15,Portugal
+74079,70,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,16.99,-5.85,Portugal
+74079,71,New Product,Healthcare,Shipped Full,2017-08-21 15:03:22,13.99,-2.85,Portugal
+73804,1,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.00,9.14,Spain
+73804,2,New Product,Food,Shipped Full,2017-08-11 07:29:40,5.49,5.65,Spain
+73804,3,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.48,8.66,Spain
+73804,4,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.25,8.89,Spain
+73804,5,Variety,Food,Shipped Full,2017-08-11 07:29:40,2.35,5.39,Spain
+73804,6,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.39,9.75,Spain
+73804,7,Variety,Food,Shipped Full,2017-08-11 07:29:40,1.39,6.35,Spain
+73804,8,New Product,Drink,Shipped Full,2017-08-11 07:29:40,1.20,9.94,Spain
+73804,9,New Product,Pet,Shipped Full,2017-08-11 07:29:40,1.56,9.58,Spain
+73804,10,New Product,Drink,Shipped Full,2017-08-11 07:29:40,0.76,10.38,Spain
+73804,11,Variety,Pet,Shipped Full,2017-08-11 07:29:40,1.56,6.18,Spain
+73804,12,Variety,Drink,Shipped Full,2017-08-11 07:29:40,0.76,6.98,Spain
+73804,13,New Product,Drink,Shipped Full,2017-08-11 07:29:40,5.97,5.17,Spain
+73804,14,Variety,Pet,Shipped Full,2017-08-11 07:29:40,1.56,6.18,Spain
+73804,15,New Product,Drink,Shipped Full,2017-08-11 07:29:40,1.50,9.64,Spain
+73804,16,New Product,Drink,Shipped Full,2017-08-11 07:29:40,2.20,8.94,Spain
+73804,17,New Product,Drink,Shipped Full,2017-08-11 07:29:40,1.50,9.64,Spain
+73804,18,New Product,Pet,Shipped Full,2017-08-11 07:29:40,5.24,5.90,Spain
+73804,19,Variety,Drink,Shipped Full,2017-08-11 07:29:40,4.99,2.75,Spain
+73804,20,New Product,Drink,Shipped Full,2017-08-11 07:29:40,1.40,9.74,Spain
+73804,21,New Product,Drink,Shipped Full,2017-08-11 07:29:40,1.50,9.64,Spain
+73804,22,New Product,Pet,Shipped Full,2017-08-11 07:29:40,1.19,9.95,Spain
+73804,23,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.65,9.49,Spain
+73804,24,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.49,9.65,Spain
+73804,25,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.39,9.75,Spain
+73804,26,New Product,Food,Shipped Full,2017-08-11 07:29:40,3.50,7.64,Spain
+73804,27,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.99,8.15,Spain
+73804,28,New Product,Food,Shipped Full,2017-08-11 07:29:40,3.90,7.24,Spain
+73804,29,New Product,Food,Shipped Full,2017-08-11 07:29:40,3.79,7.35,Spain
+73804,30,Variety,Food,Shipped Full,2017-08-11 07:29:40,3.79,3.95,Spain
+73804,31,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.95,8.19,Spain
+73804,32,Variety,Food,Shipped Full,2017-08-11 07:29:40,2.95,4.79,Spain
+73804,33,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.95,8.19,Spain
+73804,34,New Product,Food,Shipped Full,2017-08-11 07:29:40,4.75,6.39,Spain
+73804,35,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.79,8.35,Spain
+73804,36,New Product,Drink,Shipped Full,2017-08-11 07:29:40,9.00,2.14,Spain
+73804,37,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.80,9.34,Spain
+73804,38,New Product,Food,Shipped Full,2017-08-11 07:29:40,5.35,5.79,Spain
+73804,39,New Product,Food,Shipped Full,2017-08-11 07:29:40,3.90,7.24,Spain
+73804,40,New Product,Drink,Shipped Full,2017-08-11 07:29:40,6.85,4.29,Spain
+73804,41,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.95,9.19,Spain
+73804,42,New Product,Drink,Empty Packaging,2017-08-11 07:29:40,1.29,9.85,Spain
+73804,43,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.49,8.65,Spain
+73804,44,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,19.35,-8.21,Spain
+73804,45,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,15.30,-4.16,Spain
+73804,46,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,2.85,8.29,Spain
+73804,47,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,11.75,-0.61,Spain
+73804,48,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,11.70,-0.56,Spain
+73804,49,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,7.10,4.04,Spain
+73804,50,New Product,Healthcare,Shipped Full,2017-08-11 07:29:40,10.45,0.69,Spain
+73804,51,Variety,Food,Shipped Full,2017-08-11 07:29:40,4.75,2.99,Spain
+73804,52,New Product,Food,Shipped Full,2017-08-11 07:29:40,1.85,9.29,Spain
+73804,53,Variety,Food,Shipped Full,2017-08-11 07:29:40,2.95,4.79,Spain
+73804,54,New Product,Food,Shipped Full,2017-08-11 07:29:40,2.15,8.99,Spain
+74192,1,New Product,Food,Empty Packaging,2017-08-17 23:08:55,1.29,9.85,Spain
+74192,2,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,19.05,-7.91,Spain
+74192,3,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,10.50,0.64,Spain
+74192,4,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,10.50,0.64,Spain
+74192,5,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,10.50,0.64,Spain
+74192,6,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,17.60,-6.46,Spain
+74192,7,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,15.30,-4.16,Spain
+74192,8,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,17.50,-6.36,Spain
+74192,9,New Product,Beauty & Personal Care,Shipped Full,2017-08-17 23:08:55,11.40,-0.26,Spain
+74192,10,New Product,Beauty & Personal Care,Not Shipped,2017-08-17 23:08:55,16.50,-5.36,Spain
+74192,11,New Product,Healthcare,Shipped Full,2017-08-17 23:08:55,19.20,-8.06,Spain
+74192,12,New Product,Healthcare,Shipped Full,2017-08-17 23:08:55,8.40,2.74,Spain
+74192,13,New Product,Healthcare,Shipped Full,2017-08-17 23:08:55,13.45,-2.31,Spain
+74192,14,New Product,Food,Shipped Full,2017-08-17 23:08:55,2.11,9.03,Spain
+74192,15,Variety,Food,Shipped Full,2017-08-17 23:08:55,2.11,5.63,Spain
+74192,16,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.40,9.74,Spain
+74192,17,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.30,6.44,Spain
+74192,18,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.95,9.19,Spain
+74192,19,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.95,5.79,Spain
+74192,20,New Product,Food,Shipped Full,2017-08-17 23:08:55,3.88,7.26,Spain
+74192,21,New Product,Food,Shipped Full,2017-08-17 23:08:55,2.99,8.15,Spain
+74192,22,New Product,Drink,Shipped Full,2017-08-17 23:08:55,1.95,9.19,Spain
+74192,23,New Product,Drink,Shipped Full,2017-08-17 23:08:55,1.95,9.19,Spain
+74192,24,New Product,Drink,Shipped Full,2017-08-17 23:08:55,2.99,8.15,Spain
+74192,25,Variety,Drink,Shipped Full,2017-08-17 23:08:55,3.89,3.85,Spain
+74192,26,Variety,Drink,Shipped Full,2017-08-17 23:08:55,3.89,3.85,Spain
+74192,27,New Product,Drink,Empty Packaging,2017-08-17 23:08:55,0.99,10.15,Spain
+74192,28,Variety,Food,Shipped Full,2017-08-17 23:08:55,2.99,4.75,Spain
+74192,29,New Product,Drink,Shipped Full,2017-08-17 23:08:55,1.55,9.59,Spain
+74192,30,New Product,Drink,Shipped Full,2017-08-17 23:08:55,1.08,10.06,Spain
+74192,31,Variety,Drink,Shipped Full,2017-08-17 23:08:55,1.08,6.66,Spain
+74192,32,Variety,Drink,Shipped Full,2017-08-17 23:08:55,1.08,6.66,Spain
+74192,33,Variety,Drink,Shipped Full,2017-08-17 23:08:55,1.08,6.66,Spain
+74192,34,Variety,Drink,Shipped Full,2017-08-17 23:08:55,1.08,6.66,Spain
+74192,35,New Product,Drink,Shipped Full,2017-08-17 23:08:55,2.80,8.34,Spain
+74192,36,Variety,Drink,Shipped Full,2017-08-17 23:08:55,2.80,4.94,Spain
+74192,37,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.79,9.35,Spain
+74192,38,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.79,5.95,Spain
+74192,39,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.79,5.95,Spain
+74192,40,Variety,Food,Empty Packaging,2017-08-17 23:08:55,3.58,4.16,Spain
+74192,41,Variety,Food,Empty Packaging,2017-08-17 23:08:55,3.58,4.16,Spain
+74192,42,New Product,Food,Empty Packaging,2017-08-17 23:08:55,2.95,8.19,Spain
+74192,43,New Product,Food,Shipped Full,2017-08-17 23:08:55,4.99,6.15,Spain
+74192,44,Variety,Food,Shipped Full,2017-08-17 23:08:55,5.50,2.24,Spain
+74192,45,New Product,Drink,Empty Packaging,2017-08-17 23:08:55,1.52,9.62,Spain
+74192,46,New Product,Food,Empty Packaging,2017-08-17 23:08:55,1.55,9.59,Spain
+74192,47,Variety,Food,Empty Packaging,2017-08-17 23:08:55,1.29,6.45,Spain
+74192,48,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.49,9.65,Spain
+74192,49,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.49,9.65,Spain
+74192,50,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.49,6.25,Spain
+74192,51,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.49,6.25,Spain
+74192,52,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.49,9.65,Spain
+74192,53,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.85,9.29,Spain
+74192,54,New Product,Pet,Empty Packaging,2017-08-17 23:08:55,12.95,-1.81,Spain
+74192,55,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.85,5.89,Spain
+74192,56,New Product,Food,Shipped Full,2017-08-17 23:08:55,3.70,7.44,Spain
+74192,57,Variety,Pet,Empty Packaging,2017-08-17 23:08:55,12.95,-5.21,Spain
+74192,58,New Product,Food,Shipped Full,2017-08-17 23:08:55,4.60,6.54,Spain
+74192,59,New Product,Food,Not Shipped,2017-08-17 23:08:55,4.99,6.15,Spain
+74192,60,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.85,9.29,Spain
+74192,61,New Product,Food,Shipped Full,2017-08-17 23:08:55,3.49,7.65,Spain
+74192,62,Variety,Food,Shipped Full,2017-08-17 23:08:55,3.49,4.25,Spain
+74192,63,New Product,Food,Shipped Full,2017-08-17 23:08:55,1.58,9.56,Spain
+74192,64,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.58,6.16,Spain
+74192,65,Variety,Food,Shipped Full,2017-08-17 23:08:55,1.75,5.99,Spain
+74192,66,New Product,Pet,Shipped Full,2017-08-17 23:08:55,1.99,9.15,Spain
+74192,67,Variety,Pet,Shipped Full,2017-08-17 23:08:55,1.99,5.75,Spain
+74384,1,New Product,Drink,Shipped Full,2017-08-24 21:05:33,1.79,9.35,Spain
+74384,2,Variety,Drink,Shipped Full,2017-08-24 21:05:33,1.79,5.95,Spain
+74384,3,Variety,Drink,Shipped Full,2017-08-24 21:05:33,1.79,5.95,Spain
+74384,4,New Product,Food,Shipped Full,2017-08-24 21:05:33,3.75,7.39,Spain
+74384,5,Variety,Food,Shipped Full,2017-08-24 21:05:33,3.90,3.84,Spain
+74384,6,Variety,Food,Shipped Full,2017-08-24 21:05:33,3.90,3.84,Spain
+74384,7,New Product,Food,Shipped Full,2017-08-24 21:05:33,9.10,2.04,Spain
+74384,8,New Product,Food,Shipped Full,2017-08-24 21:05:33,3.99,7.15,Spain
+74384,9,Variety,Food,Shipped Full,2017-08-24 21:05:33,3.60,4.14,Spain
+74384,10,Variety,Food,Shipped Full,2017-08-24 21:05:33,3.82,3.92,Spain
+74384,11,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,9.70,1.44,Spain
+74384,12,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,10.15,0.99,Spain
+74384,13,New Product,Healthcare,Shipped Full,2017-08-24 21:05:33,15.50,-4.36,Spain
+74384,14,New Product,Food,Shipped Full,2017-08-24 21:05:33,19.90,-8.76,Spain
+74384,15,New Product,Drink,Shipped Full,2017-08-24 21:05:33,2.65,8.49,Spain
+74384,16,New Product,Drink,Shipped Full,2017-08-24 21:05:33,1.19,9.95,Spain
+74384,17,New Product,Food,Shipped Full,2017-08-24 21:05:33,2.49,8.65,Spain
+74384,18,New Product,Food,Shipped Full,2017-08-24 21:05:33,2.15,8.99,Spain
+74384,19,Variety,Drink,Shipped Full,2017-08-24 21:05:33,3.18,4.56,Spain
+74384,20,New Product,Drink,Shipped Full,2017-08-24 21:05:33,2.25,8.89,Spain
+74384,21,New Product,Drink,Shipped Full,2017-08-24 21:05:33,2.68,8.46,Spain
+74384,22,New Product,Household,Shipped Full,2017-08-24 21:05:33,6.38,4.76,Spain
+74384,23,New Product,Drink,Shipped Full,2017-08-24 21:05:33,3.30,7.84,Spain
+74384,24,New Product,Food,Shipped Full,2017-08-24 21:05:33,2.69,8.45,Spain
+74384,25,New Product,Food,Empty Packaging,2017-08-24 21:05:33,2.10,9.04,Spain
+74384,26,New Product,Food,Shipped Full,2017-08-24 21:05:33,3.09,8.05,Spain
+74384,27,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,4.50,6.64,Spain
+74384,28,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,8.70,2.44,Spain
+74384,29,New Product,Drink,Empty Packaging,2017-08-24 21:05:33,1.49,9.65,Spain
+74384,30,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,18.26,-7.12,Spain
+74384,31,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,4.90,6.24,Spain
+74384,32,New Product,Pet,Shipped Full,2017-08-24 21:05:33,10.95,0.19,Spain
+74384,33,Variety,Pet,Shipped Full,2017-08-24 21:05:33,10.95,-3.21,Spain
+74384,34,New Product,Pet,Shipped Full,2017-08-24 21:05:33,6.85,4.29,Spain
+74384,35,New Product,Pet,Shipped Full,2017-08-24 21:05:33,4.89,6.25,Spain
+74384,36,New Product,Household,Not Shipped,2017-08-24 21:05:33,2.73,8.41,Spain
+74384,37,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,4.90,6.24,Spain
+74384,38,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,4.90,6.24,Spain
+74384,39,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,4.90,6.24,Spain
+74384,40,New Product,Beauty & Personal Care,Shipped Full,2017-08-24 21:05:33,4.90,6.24,Spain
+74551,1,New Product,Household,Shipped Full,2017-08-30 15:17:11,2.97,8.17,Spain
+74551,2,New Product,Household,Shipped Full,2017-08-30 15:17:11,1.91,9.23,Spain
+74551,3,New Product,Household,Shipped Full,2017-08-30 15:17:11,1.42,9.72,Spain
+74551,4,New Product,Household,Shipped Full,2017-08-30 15:17:11,2.11,9.03,Spain
+74551,5,New Product,Household,Empty Packaging,2017-08-30 15:17:11,2.99,8.15,Spain
+74551,6,New Product,Household,Empty Packaging,2017-08-30 15:17:11,0.70,10.44,Spain
+73807,32,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,14.95,-3.81,Spain
+73807,33,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 18:51:46,3.50,7.64,Spain
+73807,34,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 18:51:46,1.99,9.15,Spain
+73807,36,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,6.95,4.19,Spain
+73807,38,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,7.99,3.15,Spain
+73807,39,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,9.99,1.15,Spain
+73807,40,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,3.50,7.64,Spain
+73807,41,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,3.50,7.64,Spain
+73807,42,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.00,-7.86,Spain
+73807,43,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.00,-7.86,Spain
+73807,44,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.00,-7.86,Spain
+73807,45,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.95,-8.81,Spain
+73807,46,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.95,-8.81,Spain
+73807,47,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.95,-8.81,Spain
+73807,48,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.95,-8.81,Spain
+73807,49,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,19.95,-8.81,Spain
+73807,50,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.49,9.65,Spain
+73807,51,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.99,9.15,Spain
+73807,52,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.99,9.15,Spain
+73807,53,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.99,9.15,Spain
+73807,54,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,8.95,2.19,Spain
+73807,55,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,5.50,5.64,Spain
+73807,56,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,2.27,8.87,Spain
+73807,57,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,5.79,5.35,Spain
+73807,58,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,2.07,9.07,Spain
+73807,59,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.50,9.64,Spain
+73807,60,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.50,9.64,Spain
+73807,61,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.50,9.64,Spain
+73807,62,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,1.50,9.64,Spain
+73807,63,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,2.48,8.66,Spain
+73807,64,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,6.95,4.19,Spain
+73807,65,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,6.99,4.15,Spain
+73807,66,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 18:51:46,2.99,8.15,Spain
+73807,67,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,6.95,4.19,Spain
+73807,68,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,5.95,5.19,Spain
+73807,69,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,4.99,6.15,Spain
+73807,70,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,6.95,4.19,Spain
+73807,73,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,7.99,3.15,Spain
+73807,74,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,4.99,6.15,Spain
+73807,75,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 18:51:46,5.95,5.19,Spain
+74003,7,New Product,Food,Not Shipped,2017-08-14 12:28:26,2.99,8.15,Spain
+74003,8,Variety,Food,Not Shipped,2017-08-14 12:28:26,2.99,4.75,Spain
+74003,9,Variety,Food,Empty Packaging,2017-08-14 12:28:26,3.49,4.25,Spain
+74003,10,Variety,Food,Not Shipped,2017-08-14 12:28:26,2.99,4.75,Spain
+74003,11,Variety,Food,Empty Packaging,2017-08-14 12:28:26,2.99,4.75,Spain
+74003,12,Variety,Food,Not Shipped,2017-08-14 12:28:26,2.99,4.75,Spain
+74003,13,Variety,Food,Not Shipped,2017-08-14 12:28:26,1.99,5.75,Spain
+74003,14,New Product,Food,Not Shipped,2017-08-14 12:28:26,2.69,8.45,Spain
+74003,15,Variety,Food,Empty Packaging,2017-08-14 12:28:26,3.49,4.25,Spain
+74003,16,New Product,Food,Empty Packaging,2017-08-14 12:28:26,1.79,9.35,Spain
+74003,17,Variety,Food,Empty Packaging,2017-08-14 12:28:26,1.55,6.19,Spain
+74003,18,Variety,Food,Empty Packaging,2017-08-14 12:28:26,0.89,6.85,Spain
+74003,19,Variety,Food,Empty Packaging,2017-08-14 12:28:26,1.21,6.53,Spain
+74003,23,New Product,Food,Empty Packaging,2017-08-14 12:28:26,6.00,5.14,Spain
+74003,25,New Product,Food,Empty Packaging,2017-08-14 12:28:26,3.25,7.89,Spain
+74003,30,New Product,Drink,Not Shipped,2017-08-14 12:28:26,12.75,-1.61,Spain
+74003,34,New Product,Drink,Shipped Full,2017-08-14 12:28:26,7.99,3.15,Spain
+74003,35,New Product,Drink,Shipped Full,2017-08-14 12:28:26,5.75,5.39,Spain
+74003,36,New Product,Drink,Empty Packaging,2017-08-14 12:28:26,12.95,-1.81,Spain
+74003,37,New Product,Drink,Empty Packaging,2017-08-14 12:28:26,13.55,-2.41,Spain
+74003,38,New Product,Drink,Shipped Full,2017-08-14 12:28:26,12.80,-1.66,Spain
+74003,39,New Product,Drink,Shipped Full,2017-08-14 12:28:26,6.50,4.64,Spain
+74003,40,New Product,Drink,Empty Packaging,2017-08-14 12:28:26,7.95,3.19,Spain
+74003,41,New Product,Drink,Shipped Full,2017-08-14 12:28:26,10.25,0.89,Spain
+74003,42,Variety,Drink,Empty Packaging,2017-08-14 12:28:26,13.50,-5.76,Spain
+74003,43,New Product,Drink,Shipped Full,2017-08-14 12:28:26,7.95,3.19,Spain
+74003,44,New Product,Drink,Empty Packaging,2017-08-14 12:28:26,2.40,8.74,Spain
+74003,45,New Product,Food,Empty Packaging,2017-08-14 12:28:26,1.49,9.65,Spain
+74003,46,Variety,Food,Empty Packaging,2017-08-14 12:28:26,1.49,6.25,Spain
+74003,47,New Product,Food,Empty Packaging,2017-08-14 12:28:26,1.49,9.65,Spain
+74003,48,New Product,Drink,Shipped Full,2017-08-14 12:28:26,0.99,10.15,Spain
+74003,49,New Product,Drink,Shipped Full,2017-08-14 12:28:26,1.00,10.14,Spain
+74003,50,New Product,Drink,Shipped Full,2017-08-14 12:28:26,0.99,10.15,Spain
+74003,51,New Product,Drink,Shipped Full,2017-08-14 12:28:26,0.67,10.47,Spain
+74003,52,New Product,Food,Shipped Full,2017-08-14 12:28:26,4.59,6.55,Spain
+74003,53,Variety,Food,Shipped Full,2017-08-14 12:28:26,2.69,5.05,Spain
+74003,54,Variety,Food,Shipped Full,2017-08-14 12:28:26,0.69,7.05,Spain
+74003,55,Variety,Food,Shipped Full,2017-08-14 12:28:26,2.79,4.95,Spain
+74003,56,Variety,Food,Shipped Full,2017-08-14 12:28:26,0.69,7.05,Spain
+74003,57,Variety,Food,Shipped Full,2017-08-14 12:28:26,1.00,6.74,Spain
+74264,2,New Product,Food,Empty Packaging,2017-08-18 10:51:19,4.99,6.15,Spain
+74264,3,New Product,Food,Empty Packaging,2017-08-18 10:51:19,3.50,7.64,Spain
+74264,4,New Product,Food,Empty Packaging,2017-08-18 10:51:19,3.50,7.64,Spain
+74264,5,New Product,Food,Empty Packaging,2017-08-18 10:51:19,1.49,9.65,Spain
+74264,6,Variety,Food,Empty Packaging,2017-08-18 10:51:19,1.49,6.25,Spain
+74264,7,New Product,Food,Empty Packaging,2017-08-18 10:51:19,4.99,6.15,Spain
+74264,8,New Product,Food,Empty Packaging,2017-08-18 10:51:19,1.99,9.15,Spain
+74264,10,New Product,Food,Empty Packaging,2017-08-18 10:51:19,2.35,8.79,Spain
+74264,18,New Product,Drink,Shipped Full,2017-08-18 10:51:19,15.85,-4.71,Spain
+74264,19,New Product,Drink,Shipped Full,2017-08-18 10:51:19,22.85,-11.71,Spain
+74264,20,New Product,Drink,Shipped Full,2017-08-18 10:51:19,7.95,3.19,Spain
+74264,21,New Product,Drink,Shipped Full,2017-08-18 10:51:19,12.15,-1.01,Spain
+74264,22,New Product,Drink,Shipped Full,2017-08-18 10:51:19,8.25,2.89,Spain
+74264,23,New Product,Drink,Shipped Full,2017-08-18 10:51:19,15.95,-4.81,Spain
+74264,24,New Product,Drink,Shipped Full,2017-08-18 10:51:19,5.20,5.94,Spain
+74264,25,Variety,Drink,Shipped Full,2017-08-18 10:51:19,15.85,-8.11,Spain
+74264,26,New Product,Drink,Shipped Full,2017-08-18 10:51:19,14.50,-3.36,Spain
+74264,27,New Product,Drink,Shipped Full,2017-08-18 10:51:19,8.25,2.89,Spain
+74264,28,New Product,Drink,Shipped Full,2017-08-18 10:51:19,7.95,3.19,Spain
+74264,29,New Product,Drink,Shipped Full,2017-08-18 10:51:19,15.60,-4.46,Spain
+74264,30,Variety,Drink,Shipped Full,2017-08-18 10:51:19,15.85,-8.11,Spain
+74264,31,New Product,Drink,Shipped Full,2017-08-18 10:51:19,7.00,4.14,Spain
+74264,32,New Product,Drink,Shipped Full,2017-08-18 10:51:19,22.75,-11.61,Spain
+74264,33,New Product,Food,Not Shipped,2017-08-18 10:51:19,2.00,9.14,Spain
+74264,34,Variety,Food,Not Shipped,2017-08-18 10:51:19,2.00,5.74,Spain
+74264,48,New Product,Food,Shipped Full,2017-08-18 10:51:19,6.95,4.19,Spain
+74264,49,New Product,Food,Shipped Full,2017-08-18 10:51:19,1.00,10.14,Spain
+74264,50,New Product,Food,Empty Packaging,2017-08-18 10:51:19,2.65,8.49,Spain
+74264,51,Variety,Food,Empty Packaging,2017-08-18 10:51:19,2.55,5.19,Spain
+74264,52,New Product,Drink,Shipped Full,2017-08-18 10:51:19,3.25,7.89,Spain
+74264,53,Variety,Food,Shipped Full,2017-08-18 10:51:19,1.00,6.74,Spain
+74264,54,Variety,Food,Shipped Full,2017-08-18 10:51:19,1.00,6.74,Spain
+74264,55,New Product,Healthcare,Shipped Full,2017-08-18 10:51:19,1.51,9.63,Spain
+74264,56,Variety,Food,Shipped Full,2017-08-18 10:51:19,1.00,6.74,Spain
+74264,57,New Product,Food,Empty Packaging,2017-08-18 10:51:19,1.85,9.29,Spain
+74264,58,Variety,Food,Empty Packaging,2017-08-18 10:51:19,1.95,5.79,Spain
+74264,59,Variety,Food,Empty Packaging,2017-08-18 10:51:19,2.75,4.99,Spain
+74264,60,New Product,Food,Empty Packaging,2017-08-18 10:51:19,3.99,7.15,Spain
+74264,61,Variety,Food,Shipped Full,2017-08-18 10:51:19,1.49,6.25,Spain
+74264,62,New Product,Food,Empty Packaging,2017-08-18 10:51:19,1.75,9.39,Spain
+74264,63,New Product,Food,Empty Packaging,2017-08-18 10:51:19,2.30,8.84,Spain
+74264,64,New Product,Food,Shipped Full,2017-08-18 10:51:19,5.25,5.89,Spain
+74264,65,New Product,Food,Shipped Full,2017-08-18 10:51:19,2.59,8.55,Spain
+74264,66,New Product,Food,Shipped Full,2017-08-18 10:51:19,1.49,9.65,Spain
+74391,3,New Product,Food,Empty Packaging,2017-08-30 22:22:39,1.15,9.99,Spain
+74391,4,New Product,Food,Empty Packaging,2017-08-30 22:22:39,0.99,10.15,Spain
+74391,5,Variety,Food,Empty Packaging,2017-08-30 22:22:39,0.99,6.75,Spain
+74391,6,New Product,Food,Empty Packaging,2017-08-30 22:22:39,1.99,9.15,Spain
+74391,22,New Product,Food,Shipped Full,2017-08-30 22:22:39,1.99,9.15,Spain
+74391,23,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.99,5.75,Spain
+74391,24,Variety,Food,Shipped Full,2017-08-30 22:22:39,2.99,4.75,Spain
+74391,25,New Product,Food,Empty Packaging,2017-08-30 22:22:39,2.99,8.15,Spain
+74391,26,New Product,Drink,Shipped Full,2017-08-30 22:22:39,1.29,9.85,Spain
+74391,27,New Product,Food,Empty Packaging,2017-08-30 22:22:39,2.99,8.15,Spain
+74391,28,New Product,Food,Empty Packaging,2017-08-30 22:22:39,1.99,9.15,Spain
+74391,29,Variety,Food,Empty Packaging,2017-08-30 22:22:39,2.99,4.75,Spain
+74391,30,New Product,Food,Shipped Full,2017-08-30 22:22:39,1.99,9.15,Spain
+74391,31,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.99,5.75,Spain
+74391,32,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.99,5.75,Spain
+74391,33,New Product,Food,Shipped Full,2017-08-30 22:22:39,4.57,6.57,Spain
+74391,34,New Product,Food,Shipped Full,2017-08-30 22:22:39,2.69,8.45,Spain
+74391,35,New Product,Drink,Shipped Full,2017-08-30 22:22:39,1.50,9.64,Spain
+74391,36,New Product,Drink,Shipped Full,2017-08-30 22:22:39,1.99,9.15,Spain
+74391,37,New Product,Food,Shipped Full,2017-08-30 22:22:39,1.77,9.37,Spain
+74391,38,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.77,5.97,Spain
+74391,39,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.77,5.97,Spain
+74391,40,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.75,5.99,Spain
+74391,41,New Product,Food,Shipped Full,2017-08-30 22:22:39,2.20,8.94,Spain
+74391,42,Variety,Food,Shipped Full,2017-08-30 22:22:39,2.20,5.54,Spain
+74391,43,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.95,5.79,Spain
+74391,44,Variety,Food,Shipped Full,2017-08-30 22:22:39,2.60,5.14,Spain
+74391,45,Variety,Food,Empty Packaging,2017-08-30 22:22:39,2.99,4.75,Spain
+74391,46,Variety,Food,Empty Packaging,2017-08-30 22:22:39,1.99,5.75,Spain
+74391,47,New Product,Food,Empty Packaging,2017-08-30 22:22:39,3.65,7.49,Spain
+74391,48,New Product,Food,Shipped Full,2017-08-30 22:22:39,2.60,8.54,Spain
+74391,49,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.55,6.19,Spain
+74391,50,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.55,6.19,Spain
+74391,51,New Product,Food,Shipped Full,2017-08-30 22:22:39,1.75,9.39,Spain
+74391,52,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.75,5.99,Spain
+74391,53,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.75,5.99,Spain
+74391,54,New Product,Food,Shipped Full,2017-08-30 22:22:39,1.49,9.65,Spain
+74391,55,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.49,6.25,Spain
+74391,56,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.49,6.25,Spain
+74391,58,New Product,Food,Shipped Full,2017-08-30 22:22:39,1.77,9.37,Spain
+74391,59,Variety,Food,Shipped Full,2017-08-30 22:22:39,1.77,5.97,Spain
+74391,60,New Product,Food,Shipped Full,2017-08-30 22:22:39,3.10,8.04,Spain
+74391,61,New Product,Food,Shipped Full,2017-08-30 22:22:39,26.30,-15.16,Spain
+74391,62,New Product,Food,Shipped Full,2017-08-30 22:22:39,7.20,3.94,Spain
+74391,63,New Product,Food,Shipped Full,2017-08-30 22:22:39,8.95,2.19,Spain
+74391,64,New Product,Food,Shipped Full,2017-08-30 22:22:39,8.95,2.19,Spain
+73755,1,New Product,Food,Empty Packaging,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,2,Variety,Food,Empty Packaging,2017-08-03 23:13:37,1.99,5.75,Spain
+73755,3,Variety,Food,Empty Packaging,2017-08-03 23:13:37,2.99,4.75,Spain
+73755,7,New Product,Food,Empty Packaging,2017-08-03 23:13:37,3.29,7.85,Spain
+73755,8,New Product,Food,Empty Packaging,2017-08-03 23:13:37,0.98,10.16,Spain
+73755,9,Variety,Food,Empty Packaging,2017-08-03 23:13:37,1.50,6.24,Spain
+73755,10,New Product,Food,Empty Packaging,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,11,New Product,Food,Empty Packaging,2017-08-03 23:13:37,2.19,8.95,Spain
+73755,12,New Product,Food,Empty Packaging,2017-08-03 23:13:37,2.39,8.75,Spain
+73755,13,Variety,Food,Empty Packaging,2017-08-03 23:13:37,2.39,5.35,Spain
+73755,14,New Product,Food,Empty Packaging,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,15,Variety,Food,Empty Packaging,2017-08-03 23:13:37,1.99,5.75,Spain
+73755,19,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,21,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,7.99,3.15,Spain
+73755,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.99,7.15,Spain
+73755,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,5.99,5.15,Spain
+73755,24,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,7.99,3.15,Spain
+73755,25,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,26,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,7.50,3.64,Spain
+73755,27,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,4.99,6.15,Spain
+73755,28,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,8.95,2.19,Spain
+73755,29,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,8.95,2.19,Spain
+73755,30,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,9.95,1.19,Spain
+73755,31,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,7.95,3.19,Spain
+73755,32,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,6.95,4.19,Spain
+73755,33,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,9.95,1.19,Spain
+73755,34,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,14.95,-3.81,Spain
+73755,35,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.50,7.64,Spain
+73755,36,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,5.99,5.15,Spain
+73755,37,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,8.50,2.64,Spain
+73755,38,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,4.50,6.64,Spain
+73755,39,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,6.99,4.15,Spain
+73755,40,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,41,New Product,Food,Shipped Full,2017-08-03 23:13:37,0.38,10.76,Spain
+73755,42,Variety,Food,Shipped Full,2017-08-03 23:13:37,0.75,6.99,Spain
+73755,43,Variety,Food,Shipped Full,2017-08-03 23:13:37,0.42,7.32,Spain
+73755,44,Variety,Food,Shipped Full,2017-08-03 23:13:37,0.38,7.36,Spain
+73755,45,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.29,6.45,Spain
+73755,46,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.99,5.75,Spain
+73755,47,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.54,9.60,Spain
+73755,48,New Product,Food,Empty Packaging,2017-08-03 23:13:37,1.78,9.36,Spain
+73755,49,New Product,Household,Shipped Full,2017-08-03 23:13:37,3.46,7.68,Spain
+73755,50,New Product,Household,Empty Packaging,2017-08-03 23:13:37,1.05,10.09,Spain
+73755,51,New Product,Food,Empty Packaging,2017-08-03 23:13:37,2.00,9.14,Spain
+73755,52,New Product,Food,Empty Packaging,2017-08-03 23:13:37,1.25,9.89,Spain
+73755,53,New Product,Food,Empty Packaging,2017-08-03 23:13:37,0.72,10.42,Spain
+73755,54,New Product,Food,Shipped Full,2017-08-03 23:13:37,0.77,10.37,Spain
+73755,55,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.54,9.60,Spain
+73755,56,New Product,Food,Shipped Full,2017-08-03 23:13:37,0.99,10.15,Spain
+73755,57,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.08,10.06,Spain
+73755,58,Variety,Food,Shipped Full,2017-08-03 23:13:37,0.82,6.92,Spain
+73755,59,New Product,Food,Shipped Full,2017-08-03 23:13:37,3.63,7.51,Spain
+73755,60,New Product,Drink,Shipped Full,2017-08-03 23:13:37,1.36,9.78,Spain
+73755,61,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,66,New Product,Food,Empty Packaging,2017-08-03 23:13:37,0.99,10.15,Spain
+73755,67,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,68,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.49,9.65,Spain
+73755,69,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,70,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.49,8.65,Spain
+73755,71,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.99,7.15,Spain
+73755,72,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.79,8.35,Spain
+73755,73,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,6.75,4.39,Spain
+73755,74,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.50,7.64,Spain
+73755,75,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,76,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.50,7.64,Spain
+73755,77,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,14.95,-3.81,Spain
+73755,78,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.79,8.35,Spain
+73755,79,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.09,10.05,Spain
+73755,80,Variety,Food,Shipped Full,2017-08-03 23:13:37,2.79,4.95,Spain
+73755,81,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,7.95,3.19,Spain
+73755,82,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,83,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.59,9.55,Spain
+73755,84,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.79,9.35,Spain
+73755,85,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.99,7.15,Spain
+73755,86,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,87,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,88,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,89,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,90,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,5.99,5.15,Spain
+73755,91,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,5.99,5.15,Spain
+73755,92,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 23:13:37,8.50,2.64,Spain
+73755,93,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 23:13:37,8.50,2.64,Spain
+73755,94,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,95,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,96,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,5.99,5.15,Spain
+73755,97,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.60,7.54,Spain
+73755,98,New Product,Healthcare,Shipped Full,2017-08-03 23:13:37,3.99,7.15,Spain
+73755,99,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,100,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.79,8.35,Spain
+73755,101,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.49,6.25,Spain
+73755,102,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,103,New Product,Drink,Empty Packaging,2017-08-03 23:13:37,0.99,10.15,Spain
+73755,104,Variety,Drink,Empty Packaging,2017-08-03 23:13:37,0.99,6.75,Spain
+73755,105,Variety,Drink,Empty Packaging,2017-08-03 23:13:37,0.99,6.75,Spain
+73755,106,New Product,Drink,Shipped Full,2017-08-03 23:13:37,2.79,8.35,Spain
+73755,107,Variety,Drink,Shipped Full,2017-08-03 23:13:37,2.79,4.95,Spain
+73755,108,Variety,Drink,Shipped Full,2017-08-03 23:13:37,2.79,4.95,Spain
+73755,109,New Product,Drink,Shipped Full,2017-08-03 23:13:37,0.99,10.15,Spain
+73755,110,Variety,Drink,Shipped Full,2017-08-03 23:13:37,0.99,6.75,Spain
+73755,111,Variety,Drink,Shipped Full,2017-08-03 23:13:37,0.99,6.75,Spain
+73755,112,New Product,Household,Empty Packaging,2017-08-03 23:13:37,1.59,9.55,Spain
+73755,113,New Product,Household,Empty Packaging,2017-08-03 23:13:37,3.79,7.35,Spain
+73755,114,New Product,Household,Empty Packaging,2017-08-03 23:13:37,1.50,9.64,Spain
+73755,115,New Product,Household,Shipped Full,2017-08-03 23:13:37,3.79,7.35,Spain
+73755,116,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.50,9.64,Spain
+73755,117,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.50,9.64,Spain
+73755,118,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.50,9.64,Spain
+73755,119,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,6.75,4.39,Spain
+73755,120,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,6.75,4.39,Spain
+73755,121,New Product,Healthcare,Shipped Full,2017-08-03 23:13:37,4.99,6.15,Spain
+73755,122,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,123,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,124,New Product,Drink,Shipped Full,2017-08-03 23:13:37,4.99,6.15,Spain
+73755,125,Variety,Drink,Shipped Full,2017-08-03 23:13:37,4.99,2.75,Spain
+73755,126,Variety,Drink,Shipped Full,2017-08-03 23:13:37,4.99,2.75,Spain
+73755,127,New Product,Drink,Shipped Full,2017-08-03 23:13:37,4.99,6.15,Spain
+73755,128,Variety,Drink,Shipped Full,2017-08-03 23:13:37,4.99,2.75,Spain
+73755,129,New Product,Drink,Shipped Full,2017-08-03 23:13:37,7.99,3.15,Spain
+73755,130,New Product,Drink,Shipped Full,2017-08-03 23:13:37,4.99,6.15,Spain
+73755,132,New Product,Household,Not Shipped,2017-08-03 23:13:37,2.89,8.25,Spain
+73755,133,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 23:13:37,1.07,10.07,Spain
+73755,134,New Product,Household,Not Shipped,2017-08-03 23:13:37,2.89,8.25,Spain
+73755,135,New Product,Food,Not Shipped,2017-08-03 23:13:37,2.15,8.99,Spain
+73755,136,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 23:13:37,3.26,7.88,Spain
+73755,137,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 23:13:37,1.41,9.73,Spain
+73755,138,New Product,Beauty & Personal Care,Not Shipped,2017-08-03 23:13:37,1.41,9.73,Spain
+73755,139,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.79,8.35,Spain
+73755,140,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.00,6.74,Spain
+73755,141,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.00,6.74,Spain
+73755,142,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.29,8.85,Spain
+73755,143,Variety,Food,Shipped Full,2017-08-03 23:13:37,2.29,5.45,Spain
+73755,144,New Product,Food,Shipped Full,2017-08-03 23:13:37,0.90,10.24,Spain
+73755,145,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.00,10.14,Spain
+73755,146,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.25,9.89,Spain
+73755,147,New Product,Food,Empty Packaging,2017-08-03 23:13:37,0.95,10.19,Spain
+73755,148,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.09,10.05,Spain
+73755,149,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.49,6.25,Spain
+73755,150,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.49,6.25,Spain
+73755,151,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.09,6.65,Spain
+73755,152,New Product,Food,Shipped Full,2017-08-03 23:13:37,6.95,4.19,Spain
+73755,153,New Product,Food,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,154,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.99,5.75,Spain
+73755,155,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.99,8.15,Spain
+73755,156,Variety,Food,Shipped Full,2017-08-03 23:13:37,1.99,5.75,Spain
+73755,157,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,1.61,9.53,Spain
+73755,158,New Product,Food,Shipped Full,2017-08-03 23:13:37,3.99,7.15,Spain
+73755,159,New Product,Food,Shipped Full,2017-08-03 23:13:37,2.05,9.09,Spain
+73755,160,New Product,Drink,Shipped Full,2017-08-03 23:13:37,1.99,9.15,Spain
+73755,161,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.89,8.25,Spain
+73755,162,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,3.79,7.35,Spain
+73755,163,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,4.59,6.55,Spain
+73755,164,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,7.99,3.15,Spain
+73755,165,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,2.15,8.99,Spain
+73755,166,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,9.50,1.64,Spain
+73755,167,New Product,Beauty & Personal Care,Shipped Full,2017-08-03 23:13:37,4.49,6.65,Spain
+73755,168,New Product,Pet,Empty Packaging,2017-08-03 23:13:37,0.35,10.79,Spain
+74006,12,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,1.99,9.15,Spain
+74006,13,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,3.99,7.15,Spain
+74006,14,New Product,Healthcare,Shipped Full,2017-08-10 08:41:17,4.99,6.15,Spain
+74006,15,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,8.99,2.15,Spain
+74006,16,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,9.95,1.19,Spain
+74006,17,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,11.89,-0.75,Spain
+74006,18,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,6.95,4.19,Spain
+74006,19,New Product,Beauty & Personal Care,Not Shipped,2017-08-10 08:41:17,1.99,9.15,Spain
+74006,20,New Product,Beauty & Personal Care,Empty Packaging,2017-08-10 08:41:17,7.95,3.19,Spain
+74006,21,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,14.95,-3.81,Spain
+74006,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,9.95,1.19,Spain
+74006,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,6.95,4.19,Spain
+74006,24,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,9.95,1.19,Spain
+74006,25,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,12.95,-1.81,Spain
+74006,26,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,14.95,-3.81,Spain
+74006,27,New Product,Beauty & Personal Care,Not Shipped,2017-08-10 08:41:17,5.99,5.15,Spain
+74006,29,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 08:41:17,2.95,8.19,Spain
+74154,4,New Product,Food,Empty Packaging,2017-08-16 11:06:19,1.99,9.15,Spain
+74154,5,New Product,Food,Empty Packaging,2017-08-16 11:06:19,0.29,10.85,Spain
+74154,6,New Product,Food,Empty Packaging,2017-08-16 11:06:19,1.99,9.15,Spain
+74154,7,New Product,Food,Empty Packaging,2017-08-16 11:06:19,2.90,8.24,Spain
+74154,8,Variety,Food,Empty Packaging,2017-08-16 11:06:19,2.90,4.84,Spain
+74154,9,Variety,Food,Empty Packaging,2017-08-16 11:06:19,2.99,4.75,Spain
+74154,12,New Product,Beauty & Personal Care,Not Shipped,2017-08-16 11:06:19,6.99,4.15,Spain
+74154,13,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,4.95,6.19,Spain
+74154,14,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,5.69,5.45,Spain
+74154,15,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,1.99,9.15,Spain
+74154,16,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,5.69,5.45,Spain
+74154,17,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,3.99,7.15,Spain
+74154,18,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,5.69,5.45,Spain
+74154,19,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,1.45,9.69,Spain
+74154,20,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,3.95,7.19,Spain
+74154,21,New Product,Household,Empty Packaging,2017-08-16 11:06:19,2.99,8.15,Spain
+74154,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,10.35,0.79,Spain
+74154,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,5.95,5.19,Spain
+74154,24,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,10.95,0.19,Spain
+74154,25,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,9.95,1.19,Spain
+74154,26,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,5.50,5.64,Spain
+74154,27,New Product,Beauty & Personal Care,Empty Packaging,2017-08-16 11:06:19,2.95,8.19,Spain
+74154,28,New Product,Beauty & Personal Care,Empty Packaging,2017-08-16 11:06:19,2.95,8.19,Spain
+74154,29,New Product,Beauty & Personal Care,Empty Packaging,2017-08-16 11:06:19,2.95,8.19,Spain
+74154,30,New Product,Beauty & Personal Care,Empty Packaging,2017-08-16 11:06:19,2.95,8.19,Spain
+74154,31,New Product,Beauty & Personal Care,Not Shipped,2017-08-16 11:06:19,5.95,5.19,Spain
+74154,32,New Product,Beauty & Personal Care,Empty Packaging,2017-08-16 11:06:19,2.15,8.99,Spain
+74154,33,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 11:06:19,2.00,9.14,Spain
+74154,34,New Product,Beauty & Personal Care,Not Shipped,2017-08-16 11:06:19,1.07,10.07,Spain
+74154,35,New Product,Beauty & Personal Care,Not Shipped,2017-08-16 11:06:19,2.50,8.64,Spain
+74154,36,New Product,Food,Empty Packaging,2017-08-16 11:06:19,1.99,9.15,Spain
+74154,37,Variety,Food,Empty Packaging,2017-08-16 11:06:19,1.40,6.34,Spain
+74154,38,New Product,Food,Empty Packaging,2017-08-16 11:06:19,1.99,9.15,Spain
+74332,4,New Product,Food,Empty Packaging,2017-08-22 10:54:27,3.50,7.64,Spain
+74332,6,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,1.50,9.64,Spain
+74332,7,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,16.95,-5.81,Spain
+74332,8,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,19.95,-8.81,Spain
+74332,9,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,16.95,-5.81,Spain
+74332,10,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,11,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,10.95,0.19,Spain
+74332,12,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,6.95,4.19,Spain
+74332,13,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,7.95,3.19,Spain
+74332,14,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,10.95,0.19,Spain
+74332,15,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,4.95,6.19,Spain
+74332,16,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,1.95,9.19,Spain
+74332,17,New Product,Beauty & Personal Care,Not Shipped,2017-08-22 10:54:27,10.95,0.19,Spain
+74332,18,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,15.95,-4.81,Spain
+74332,19,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,20,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,3.49,7.65,Spain
+74332,21,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,16.95,-5.81,Spain
+74332,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,10.95,0.19,Spain
+74332,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,15.95,-4.81,Spain
+74332,24,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,9.95,1.19,Spain
+74332,25,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,26,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,27,New Product,Beauty & Personal Care,Not Shipped,2017-08-22 10:54:27,11.95,-0.81,Spain
+74332,28,New Product,Beauty & Personal Care,Not Shipped,2017-08-22 10:54:27,6.95,4.19,Spain
+74332,29,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,30,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,17.95,-6.81,Spain
+74332,31,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,4.89,6.25,Spain
+74332,32,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,10.95,0.19,Spain
+74332,33,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,34,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,3.59,7.55,Spain
+74332,35,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,4.89,6.25,Spain
+74332,36,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,12.90,-1.76,Spain
+74332,37,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,15.95,-4.81,Spain
+74332,38,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,7.95,3.19,Spain
+74332,39,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,2.49,8.65,Spain
+74332,40,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,3.19,7.95,Spain
+74332,41,New Product,Beauty & Personal Care,Not Shipped,2017-08-22 10:54:27,7.95,3.19,Spain
+74332,42,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,9.95,1.19,Spain
+74332,43,New Product,Beauty & Personal Care,Shipped Full,2017-08-22 10:54:27,13.95,-2.81,Spain
+74332,44,New Product,Beauty & Personal Care,Not Shipped,2017-08-22 10:54:27,2.49,8.65,Spain
+74477,2,New Product,Drink,Shipped Full,2017-08-25 10:52:50,4.99,6.15,Spain
+74477,3,New Product,Drink,Shipped Full,2017-08-25 10:52:50,5.85,5.29,Spain
+74477,4,New Product,Drink,Shipped Full,2017-08-25 10:52:50,3.95,7.19,Spain
+74477,5,New Product,Drink,Shipped Full,2017-08-25 10:52:50,3.99,7.15,Spain
+74477,6,New Product,Drink,Shipped Full,2017-08-25 10:52:50,2.49,8.65,Spain
+74477,7,New Product,Drink,Shipped Full,2017-08-25 10:52:50,1.00,10.14,Spain
+74477,8,New Product,Drink,Shipped Full,2017-08-25 10:52:50,9.90,1.24,Spain
+74477,9,New Product,Drink,Shipped Full,2017-08-25 10:52:50,3.49,7.65,Spain
+74477,10,New Product,Drink,Shipped Full,2017-08-25 10:52:50,3.49,7.65,Spain
+74477,11,New Product,Drink,Shipped Full,2017-08-25 10:52:50,1.99,9.15,Spain
+74477,12,New Product,Drink,Shipped Full,2017-08-25 10:52:50,13.69,-2.55,Spain
+74477,13,New Product,Drink,Shipped Full,2017-08-25 10:52:50,1.10,10.04,Spain
+74477,14,New Product,Drink,Shipped Full,2017-08-25 10:52:50,1.40,9.74,Spain
+74477,15,New Product,Drink,Shipped Full,2017-08-25 10:52:50,2.10,9.04,Spain
+74477,16,New Product,Drink,Shipped Full,2017-08-25 10:52:50,2.00,9.14,Spain
+74477,17,Variety,Drink,Shipped Full,2017-08-25 10:52:50,2.00,5.74,Spain
+74477,18,Variety,Drink,Shipped Full,2017-08-25 10:52:50,2.00,5.74,Spain
+74477,19,New Product,Household,Empty Packaging,2017-08-25 10:52:50,4.00,7.14,Spain
+74477,20,New Product,Household,Empty Packaging,2017-08-25 10:52:50,2.59,8.55,Spain
+74477,21,New Product,Household,Empty Packaging,2017-08-25 10:52:50,2.50,8.64,Spain
+74477,22,New Product,Household,Empty Packaging,2017-08-25 10:52:50,2.59,8.55,Spain
+74477,23,New Product,Food,Shipped Full,2017-08-25 10:52:50,3.35,7.79,Spain
+74477,24,Variety,Food,Shipped Full,2017-08-25 10:52:50,3.35,4.39,Spain
+74477,25,Variety,Food,Shipped Full,2017-08-25 10:52:50,3.35,4.39,Spain
+74477,26,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.70,8.44,Spain
+74477,27,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.70,5.04,Spain
+74477,28,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.94,4.80,Spain
+74477,29,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.20,8.94,Spain
+74477,30,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.20,5.54,Spain
+74477,31,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.20,5.54,Spain
+74477,32,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.20,5.54,Spain
+74477,33,New Product,Food,Shipped Full,2017-08-25 10:52:50,1.49,9.65,Spain
+74477,34,New Product,Food,Shipped Full,2017-08-25 10:52:50,3.90,7.24,Spain
+74477,35,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.94,4.80,Spain
+74477,36,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.10,9.04,Spain
+74477,37,New Product,Food,Shipped Full,2017-08-25 10:52:50,3.00,8.14,Spain
+74477,38,Variety,Food,Shipped Full,2017-08-25 10:52:50,3.00,4.74,Spain
+74477,39,Variety,Food,Shipped Full,2017-08-25 10:52:50,3.00,4.74,Spain
+74477,40,Variety,Food,Shipped Full,2017-08-25 10:52:50,3.00,4.74,Spain
+74477,41,Variety,Food,Shipped Full,2017-08-25 10:52:50,3.00,4.74,Spain
+74477,42,New Product,Food,Shipped Full,2017-08-25 10:52:50,1.92,9.22,Spain
+74477,43,New Product,Food,Shipped Full,2017-08-25 10:52:50,3.50,7.64,Spain
+74477,44,New Product,Food,Shipped Full,2017-08-25 10:52:50,0.73,10.41,Spain
+74477,45,Variety,Food,Shipped Full,2017-08-25 10:52:50,0.59,7.15,Spain
+74477,46,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.40,8.74,Spain
+74477,47,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.40,5.34,Spain
+74477,48,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.40,5.34,Spain
+74477,49,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.40,5.34,Spain
+74477,50,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.60,8.54,Spain
+74477,51,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.60,5.14,Spain
+74477,52,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.60,8.54,Spain
+74477,53,New Product,Food,Shipped Full,2017-08-25 10:52:50,2.60,8.54,Spain
+74477,54,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.60,5.14,Spain
+74477,55,Variety,Food,Shipped Full,2017-08-25 10:52:50,2.60,5.14,Spain
+74477,56,New Product,Food,Shipped Full,2017-08-25 10:52:50,1.00,10.14,Spain
+74477,57,New Product,Food,Shipped Full,2017-08-25 10:52:50,1.00,10.14,Spain
+74569,2,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,13.95,-2.81,Spain
+74569,3,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,13.95,-2.81,Spain
+74569,4,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,3.19,7.95,Spain
+74569,5,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,2.89,8.25,Spain
+74569,6,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,2.89,8.25,Spain
+74569,7,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,2.46,8.68,Spain
+74569,10,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,3.50,7.64,Spain
+74569,11,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,5.93,5.21,Spain
+74569,14,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,12.40,-1.26,Spain
+74569,15,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,6.29,4.85,Spain
+74569,16,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,7.72,3.42,Spain
+74569,17,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,9.26,1.88,Spain
+74569,18,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,7.72,3.42,Spain
+74569,19,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,8.93,2.21,Spain
+74569,20,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,6.31,4.83,Spain
+74569,21,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,6.03,5.11,Spain
+74569,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,8.10,3.04,Spain
+74569,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,9.05,2.09,Spain
+74569,24,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,11.53,-0.39,Spain
+74569,25,New Product,Beauty & Personal Care,Not Shipped,2017-08-30 14:43:37,7.95,3.19,Spain
+74569,26,New Product,Beauty & Personal Care,Not Shipped,2017-08-30 14:43:37,7.95,3.19,Spain
+74569,27,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,9.88,1.26,Spain
+74569,28,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,9.05,2.09,Spain
+74569,29,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,5.96,5.18,Spain
+74569,30,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,7.35,3.79,Spain
+74569,31,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,7.00,4.14,Spain
+74569,32,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,19.00,-7.86,Spain
+74569,33,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,1.99,9.15,Spain
+74569,34,New Product,Beauty & Personal Care,Not Shipped,2017-08-30 14:43:37,9.90,1.24,Spain
+74569,35,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,6.35,4.79,Spain
+74569,36,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,9.95,1.19,Spain
+74569,37,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,3.45,7.69,Spain
+74569,38,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,5.90,5.24,Spain
+74569,39,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,5.90,5.24,Spain
+74569,40,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,2.89,8.25,Spain
+74569,41,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,15.97,-4.83,Spain
+74569,42,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,5.60,5.54,Spain
+74569,43,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,4.20,6.94,Spain
+74569,44,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:43:37,7.00,4.14,Spain
+74569,45,New Product,Beauty & Personal Care,Not Shipped,2017-08-30 14:43:37,3.94,7.20,Spain
+74569,46,New Product,Beauty & Personal Care,Not Shipped,2017-08-30 14:43:37,4.09,7.05,Spain
+73764,1,New Product,Food,Empty Packaging,2017-08-03 12:25:58,3.18,7.96,Spain
+73764,2,Variety,Food,Empty Packaging,2017-08-03 12:25:58,3.18,4.56,Spain
+73764,3,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.00,9.14,Spain
+73764,4,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.60,8.54,Spain
+73764,5,New Product,Drink,Empty Packaging,2017-08-03 12:25:58,2.25,8.89,Spain
+73764,6,Variety,Drink,Empty Packaging,2017-08-03 12:25:58,2.25,5.49,Spain
+73764,7,New Product,Drink,Empty Packaging,2017-08-03 12:25:58,3.90,7.24,Spain
+73764,8,Variety,Drink,Empty Packaging,2017-08-03 12:25:58,3.90,3.84,Spain
+73764,9,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.99,8.15,Spain
+73764,10,Variety,Food,Empty Packaging,2017-08-03 12:25:58,2.99,4.75,Spain
+73764,11,New Product,Food,Empty Packaging,2017-08-03 12:25:58,3.50,7.64,Spain
+73764,12,Variety,Food,Empty Packaging,2017-08-03 12:25:58,3.50,4.24,Spain
+73764,13,New Product,Food,Empty Packaging,2017-08-03 12:25:58,0.62,10.52,Spain
+73764,14,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.39,8.75,Spain
+73764,15,Variety,Food,Empty Packaging,2017-08-03 12:25:58,2.39,5.35,Spain
+73764,16,Variety,Food,Empty Packaging,2017-08-03 12:25:58,2.39,5.35,Spain
+73764,17,New Product,Food,Empty Packaging,2017-08-03 12:25:58,1.86,9.28,Spain
+73764,18,Variety,Food,Empty Packaging,2017-08-03 12:25:58,1.86,5.88,Spain
+73764,19,New Product,Food,Empty Packaging,2017-08-03 12:25:58,3.80,7.34,Spain
+73764,20,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.55,8.59,Spain
+73764,21,New Product,Food,Empty Packaging,2017-08-03 12:25:58,0.96,10.18,Spain
+73764,22,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.35,8.79,Spain
+73764,23,Variety,Food,Empty Packaging,2017-08-03 12:25:58,2.35,5.39,Spain
+73764,24,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.35,8.79,Spain
+73764,25,New Product,Food,Empty Packaging,2017-08-03 12:25:58,0.89,10.25,Spain
+73764,26,Variety,Food,Empty Packaging,2017-08-03 12:25:58,0.89,6.85,Spain
+73764,27,Variety,Food,Empty Packaging,2017-08-03 12:25:58,0.89,6.85,Spain
+73764,28,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.15,8.99,Spain
+73764,29,New Product,Food,Empty Packaging,2017-08-03 12:25:58,1.89,9.25,Spain
+73764,30,Variety,Food,Empty Packaging,2017-08-03 12:25:58,1.89,5.85,Spain
+73764,31,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.99,8.15,Spain
+73764,32,Variety,Food,Empty Packaging,2017-08-03 12:25:58,2.99,4.75,Spain
+73764,33,New Product,Food,Empty Packaging,2017-08-03 12:25:58,1.55,9.59,Spain
+73764,34,Variety,Food,Empty Packaging,2017-08-03 12:25:58,1.55,6.19,Spain
+73764,35,Variety,Food,Empty Packaging,2017-08-03 12:25:58,1.55,6.19,Spain
+73764,36,Variety,Food,Empty Packaging,2017-08-03 12:25:58,1.89,5.85,Spain
+73764,37,New Product,Food,Empty Packaging,2017-08-03 12:25:58,3.99,7.15,Spain
+73764,38,New Product,Food,Empty Packaging,2017-08-03 12:25:58,6.59,4.55,Spain
+73764,39,New Product,Food,Empty Packaging,2017-08-03 12:25:58,7.90,3.24,Spain
+73764,40,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.75,8.39,Spain
+73764,41,New Product,Food,Empty Packaging,2017-08-03 12:25:58,5.95,5.19,Spain
+73764,42,New Product,Food,Empty Packaging,2017-08-03 12:25:58,4.95,6.19,Spain
+73764,43,New Product,Food,Empty Packaging,2017-08-03 12:25:58,1.79,9.35,Spain
+73764,44,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.81,8.33,Spain
+73764,45,Variety,Food,Empty Packaging,2017-08-03 12:25:58,2.49,5.25,Spain
+73764,46,Variety,Food,Empty Packaging,2017-08-03 12:25:58,5.95,1.79,Spain
+73764,47,New Product,Food,Shipped Full,2017-08-03 12:25:58,1.89,9.25,Spain
+73764,48,New Product,Pet,Empty Packaging,2017-08-03 12:25:58,9.95,1.19,Spain
+73764,49,New Product,Household,Empty Packaging,2017-08-03 12:25:58,3.99,7.15,Spain
+73764,50,Variety,Pet,Empty Packaging,2017-08-03 12:25:58,15.89,-8.15,Spain
+73764,51,New Product,Household,Empty Packaging,2017-08-03 12:25:58,2.12,9.02,Spain
+73764,52,New Product,Pet,Empty Packaging,2017-08-03 12:25:58,12.95,-1.81,Spain
+73764,53,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.79,8.35,Spain
+73764,54,New Product,Pet,Empty Packaging,2017-08-03 12:25:58,7.50,3.64,Spain
+73764,55,New Product,Food,Empty Packaging,2017-08-03 12:25:58,3.90,7.24,Spain
+73764,56,Variety,Food,Empty Packaging,2017-08-03 12:25:58,3.41,4.33,Spain
+73764,57,New Product,Household,Empty Packaging,2017-08-03 12:25:58,1.99,9.15,Spain
+73764,58,New Product,Healthcare,Shipped Full,2017-08-03 12:25:58,14.75,-3.61,Spain
+73764,59,New Product,Healthcare,Shipped Full,2017-08-03 12:25:58,15.25,-4.11,Spain
+73764,60,New Product,Healthcare,Shipped Full,2017-08-03 12:25:58,4.50,6.64,Spain
+73764,61,New Product,Food,Empty Packaging,2017-08-03 12:25:58,3.99,7.15,Spain
+73764,62,Variety,Food,Empty Packaging,2017-08-03 12:25:58,3.99,3.75,Spain
+73764,63,Variety,Food,Empty Packaging,2017-08-03 12:25:58,3.99,3.75,Spain
+73764,65,New Product,Food,Empty Packaging,2017-08-03 12:25:58,2.95,8.19,Spain
+73992,1,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.35,9.79,Spain
+73992,2,New Product,Drink,Shipped Full,2017-08-10 10:25:56,4.25,6.89,Spain
+73992,3,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,4,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,5,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,6,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,7,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,8,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,9,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.25,3.49,Spain
+73992,10,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.05,9.09,Spain
+73992,11,New Product,Drink,Empty Packaging,2017-08-10 10:25:56,2.10,9.04,Spain
+73992,12,New Product,Food,Empty Packaging,2017-08-10 10:25:56,2.50,8.64,Spain
+73992,13,New Product,Food,Empty Packaging,2017-08-10 10:25:56,3.49,7.65,Spain
+73992,14,Variety,Food,Empty Packaging,2017-08-10 10:25:56,3.05,4.69,Spain
+73992,15,New Product,Food,Empty Packaging,2017-08-10 10:25:56,1.99,9.15,Spain
+73992,16,Variety,Food,Empty Packaging,2017-08-10 10:25:56,2.15,5.59,Spain
+73992,17,New Product,Food,Shipped Full,2017-08-10 10:25:56,3.75,7.39,Spain
+73992,18,New Product,Food,Shipped Full,2017-08-10 10:25:56,13.20,-2.06,Spain
+73992,19,Variety,Food,Empty Packaging,2017-08-10 10:25:56,1.79,5.95,Spain
+73992,20,New Product,Household,Shipped Full,2017-08-10 10:25:56,1.05,10.09,Spain
+73992,21,New Product,Food,Shipped Full,2017-08-10 10:25:56,4.60,6.54,Spain
+73992,22,New Product,Drink,Shipped Full,2017-08-10 10:25:56,5.95,5.19,Spain
+73992,23,Variety,Drink,Shipped Full,2017-08-10 10:25:56,5.95,1.79,Spain
+73992,24,New Product,Drink,Shipped Full,2017-08-10 10:25:56,4.39,6.75,Spain
+73992,25,Variety,Drink,Shipped Full,2017-08-10 10:25:56,4.39,3.35,Spain
+73992,26,New Product,Drink,Shipped Full,2017-08-10 10:25:56,2.59,8.55,Spain
+73992,27,Variety,Drink,Shipped Full,2017-08-10 10:25:56,2.59,5.15,Spain
+73992,28,Variety,Drink,Shipped Full,2017-08-10 10:25:56,2.59,5.15,Spain
+73992,29,Variety,Drink,Shipped Full,2017-08-10 10:25:56,2.59,5.15,Spain
+73992,30,New Product,Drink,Shipped Full,2017-08-10 10:25:56,5.50,5.64,Spain
+73992,31,Variety,Drink,Shipped Full,2017-08-10 10:25:56,5.50,2.24,Spain
+73992,32,New Product,Drink,Shipped Full,2017-08-10 10:25:56,3.99,7.15,Spain
+73992,33,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,1.49,9.65,Spain
+73992,34,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,2.33,8.81,Spain
+73992,35,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,3.50,7.64,Spain
+73992,36,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,1.45,9.69,Spain
+73992,37,New Product,Household,Shipped Full,2017-08-10 10:25:56,2.05,9.09,Spain
+73992,38,New Product,Household,Shipped Full,2017-08-10 10:25:56,0.99,10.15,Spain
+73992,39,New Product,Household,Shipped Full,2017-08-10 10:25:56,1.68,9.46,Spain
+73992,40,New Product,Household,Shipped Full,2017-08-10 10:25:56,2.89,8.25,Spain
+73992,41,New Product,Household,Shipped Full,2017-08-10 10:25:56,3.25,7.89,Spain
+73992,42,New Product,Household,Shipped Full,2017-08-10 10:25:56,2.05,9.09,Spain
+73992,43,New Product,Household,Shipped Full,2017-08-10 10:25:56,3.99,7.15,Spain
+73992,44,New Product,Household,Shipped Full,2017-08-10 10:25:56,4.15,6.99,Spain
+73992,45,New Product,Household,Shipped Full,2017-08-10 10:25:56,1.95,9.19,Spain
+73992,46,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,1.99,9.15,Spain
+73992,47,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,0.89,10.25,Spain
+73992,48,New Product,Healthcare,Shipped Full,2017-08-10 10:25:56,3.99,7.15,Spain
+73992,49,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.00,10.14,Spain
+73992,50,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.00,6.74,Spain
+73992,51,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.00,6.74,Spain
+73992,52,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.00,6.74,Spain
+73992,53,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.00,6.74,Spain
+73992,54,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.00,6.74,Spain
+73992,55,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.00,10.14,Spain
+73992,56,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.15,8.99,Spain
+73992,57,New Product,Drink,Shipped Full,2017-08-10 10:25:56,1.95,9.19,Spain
+73992,58,New Product,Drink,Shipped Full,2017-08-10 10:25:56,1.55,9.59,Spain
+73992,59,Variety,Drink,Shipped Full,2017-08-10 10:25:56,1.55,6.19,Spain
+73992,60,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.95,9.19,Spain
+73992,61,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.95,5.79,Spain
+73992,62,New Product,Food,Shipped Full,2017-08-10 10:25:56,4.16,6.98,Spain
+73992,63,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.65,9.49,Spain
+73992,64,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.30,9.84,Spain
+73992,65,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.65,9.49,Spain
+73992,66,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.75,8.39,Spain
+73992,67,Variety,Food,Shipped Full,2017-08-10 10:25:56,2.84,4.90,Spain
+73992,68,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.35,9.79,Spain
+73992,69,Variety,Food,Shipped Full,2017-08-10 10:25:56,1.00,6.74,Spain
+73992,70,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.45,8.69,Spain
+73992,71,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.35,8.79,Spain
+73992,72,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.65,9.49,Spain
+73992,73,New Product,Drink,Shipped Full,2017-08-10 10:25:56,1.50,9.64,Spain
+73992,74,Variety,Drink,Shipped Full,2017-08-10 10:25:56,1.50,6.24,Spain
+73992,75,Variety,Drink,Shipped Full,2017-08-10 10:25:56,1.50,6.24,Spain
+73992,76,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.69,8.45,Spain
+73992,77,New Product,Household,Empty Packaging,2017-08-10 10:25:56,1.35,9.79,Spain
+73992,78,New Product,Household,Empty Packaging,2017-08-10 10:25:56,0.99,10.15,Spain
+73992,79,New Product,Household,Empty Packaging,2017-08-10 10:25:56,1.95,9.19,Spain
+73992,80,New Product,Household,Empty Packaging,2017-08-10 10:25:56,2.59,8.55,Spain
+73992,81,New Product,Beauty & Personal Care,Empty Packaging,2017-08-10 10:25:56,1.75,9.39,Spain
+73992,82,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 10:25:56,3.19,7.95,Spain
+73992,83,New Product,Beauty & Personal Care,Empty Packaging,2017-08-10 10:25:56,1.89,9.25,Spain
+73992,84,New Product,Beauty & Personal Care,Empty Packaging,2017-08-10 10:25:56,1.72,9.42,Spain
+73992,85,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 10:25:56,3.09,8.05,Spain
+73992,86,New Product,Beauty & Personal Care,Shipped Full,2017-08-10 10:25:56,1.75,9.39,Spain
+73992,87,New Product,Food,Empty Packaging,2017-08-10 10:25:56,1.26,9.88,Spain
+73992,88,Variety,Food,Empty Packaging,2017-08-10 10:25:56,1.26,6.48,Spain
+73992,89,Variety,Food,Empty Packaging,2017-08-10 10:25:56,1.26,6.48,Spain
+73992,90,Variety,Food,Empty Packaging,2017-08-10 10:25:56,1.26,6.48,Spain
+73992,91,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.99,9.15,Spain
+73992,92,New Product,Food,Empty Packaging,2017-08-10 10:25:56,1.00,10.14,Spain
+73992,93,New Product,Food,Empty Packaging,2017-08-10 10:25:56,1.57,9.57,Spain
+73992,94,Variety,Food,Empty Packaging,2017-08-10 10:25:56,1.60,6.14,Spain
+73992,95,New Product,Food,Empty Packaging,2017-08-10 10:25:56,0.82,10.32,Spain
+73992,96,Variety,Food,Empty Packaging,2017-08-10 10:25:56,0.84,6.90,Spain
+73992,97,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.65,9.49,Spain
+73992,98,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.89,8.25,Spain
+73992,99,New Product,Food,Shipped Full,2017-08-10 10:25:56,1.70,9.44,Spain
+73992,100,New Product,Food,Shipped Full,2017-08-10 10:25:56,2.00,9.14,Spain
+74158,1,New Product,Drink,Empty Packaging,2017-08-16 14:34:15,2.59,8.55,Spain
+74158,2,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,6.95,4.19,Spain
+74158,3,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,8.95,2.19,Spain
+74158,4,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,9.95,1.19,Spain
+74158,5,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,12.95,-1.81,Spain
+74158,6,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,12.95,-1.81,Spain
+74158,7,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,9.50,1.64,Spain
+74158,8,New Product,Household,Shipped Full,2017-08-16 14:34:15,5.59,5.55,Spain
+74158,9,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,1.99,9.15,Spain
+74158,10,New Product,Beauty & Personal Care,Shipped Full,2017-08-16 14:34:15,3.90,7.24,Spain
+74158,11,New Product,Beauty & Personal Care,Not Shipped,2017-08-16 14:34:15,1.50,9.64,Spain
+74158,12,New Product,Beauty & Personal Care,Not Shipped,2017-08-16 14:34:15,1.99,9.15,Spain
+74339,1,New Product,Drink,Shipped Full,2017-08-22 12:32:21,1.99,9.15,Spain
+74339,2,Variety,Drink,Shipped Full,2017-08-22 12:32:21,1.99,5.75,Spain
+74339,3,Variety,Drink,Shipped Full,2017-08-22 12:32:21,1.99,5.75,Spain
+74339,4,Variety,Drink,Shipped Full,2017-08-22 12:32:21,1.99,5.75,Spain
+74339,5,Variety,Drink,Shipped Full,2017-08-22 12:32:21,1.99,5.75,Spain
+74339,6,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.90,8.24,Spain
+74339,7,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.90,4.84,Spain
+74339,8,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.90,4.84,Spain
+74339,9,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.45,8.69,Spain
+74339,10,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.25,8.89,Spain
+74339,11,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.40,5.34,Spain
+74339,12,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.70,5.04,Spain
+74339,13,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.95,8.19,Spain
+74339,14,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.95,4.79,Spain
+74339,15,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.95,4.79,Spain
+74339,16,Variety,Drink,Shipped Full,2017-08-22 12:32:21,3.40,4.34,Spain
+74339,17,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.50,5.24,Spain
+74339,18,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.99,4.75,Spain
+74339,19,Variety,Drink,Shipped Full,2017-08-22 12:32:21,2.58,5.16,Spain
+74339,20,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.04,10.10,Spain
+74339,21,New Product,Food,Shipped Full,2017-08-22 12:32:21,2.36,8.78,Spain
+74339,22,New Product,Food,Shipped Full,2017-08-22 12:32:21,5.85,5.29,Spain
+74339,23,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.05,10.09,Spain
+74339,24,Variety,Food,Shipped Full,2017-08-22 12:32:21,1.05,6.69,Spain
+74339,25,Variety,Food,Shipped Full,2017-08-22 12:32:21,1.05,6.69,Spain
+74339,26,Variety,Food,Shipped Full,2017-08-22 12:32:21,1.05,6.69,Spain
+74339,27,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.85,9.29,Spain
+74339,28,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.15,9.99,Spain
+74339,29,Variety,Food,Shipped Full,2017-08-22 12:32:21,1.15,6.59,Spain
+74339,30,Variety,Food,Shipped Full,2017-08-22 12:32:21,1.15,6.59,Spain
+74339,31,New Product,Food,Shipped Full,2017-08-22 12:32:21,2.35,8.79,Spain
+74339,32,Variety,Food,Shipped Full,2017-08-22 12:32:21,2.85,4.89,Spain
+74339,33,Variety,Food,Shipped Full,2017-08-22 12:32:21,2.35,5.39,Spain
+74339,34,New Product,Food,Shipped Full,2017-08-22 12:32:21,2.95,8.19,Spain
+74339,35,Variety,Food,Shipped Full,2017-08-22 12:32:21,2.95,4.79,Spain
+74339,36,New Product,Food,Shipped Full,2017-08-22 12:32:21,0.21,10.93,Spain
+74339,37,Variety,Food,Shipped Full,2017-08-22 12:32:21,0.19,7.55,Spain
+74339,38,New Product,Food,Shipped Full,2017-08-22 12:32:21,0.56,10.58,Spain
+74339,39,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.35,9.79,Spain
+74339,40,New Product,Food,Shipped Full,2017-08-22 12:32:21,2.45,8.69,Spain
+74339,41,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.61,9.53,Spain
+74339,42,New Product,Food,Shipped Full,2017-08-22 12:32:21,2.20,8.94,Spain
+74339,43,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.37,9.77,Spain
+74339,44,New Product,Healthcare,Shipped Full,2017-08-22 12:32:21,13.80,-2.66,Spain
+74339,45,New Product,Healthcare,Shipped Full,2017-08-22 12:32:21,1.50,9.64,Spain
+74339,46,New Product,Healthcare,Shipped Full,2017-08-22 12:32:21,9.95,1.19,Spain
+74339,47,New Product,Drink,Shipped Full,2017-08-22 12:32:21,3.31,7.83,Spain
+74339,48,New Product,Drink,Shipped Full,2017-08-22 12:32:21,3.30,7.84,Spain
+74339,49,New Product,Pet,Shipped Full,2017-08-22 12:32:21,0.49,10.65,Spain
+74339,50,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.79,8.35,Spain
+74339,51,New Product,Food,Shipped Full,2017-08-22 12:32:21,3.08,8.06,Spain
+74339,52,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.75,9.39,Spain
+74339,53,Variety,Food,Shipped Full,2017-08-22 12:32:21,2.45,5.29,Spain
+74339,54,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.29,8.85,Spain
+74339,55,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.99,9.15,Spain
+74339,56,New Product,Food,Shipped Full,2017-08-22 12:32:21,2.35,8.79,Spain
+74339,57,New Product,Household,Shipped Full,2017-08-22 12:32:21,1.29,9.85,Spain
+74339,58,New Product,Food,Shipped Full,2017-08-22 12:32:21,1.11,10.03,Spain
+74339,59,Variety,Food,Shipped Full,2017-08-22 12:32:21,1.05,6.69,Spain
+74339,60,New Product,Drink,Shipped Full,2017-08-22 12:32:21,2.95,8.19,Spain
+74339,61,Variety,Food,Shipped Full,2017-08-22 12:32:21,2.15,5.59,Spain
+74339,62,Variety,Food,Shipped Full,2017-08-22 12:32:21,2.15,5.59,Spain
+74339,63,New Product,Drink,Shipped Full,2017-08-22 12:32:21,1.90,9.24,Spain
+74339,64,New Product,Drink,Shipped Full,2017-08-22 12:32:21,1.90,9.24,Spain
+74482,1,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,1.75,9.39,Spain
+74482,2,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.16,6.98,Spain
+74482,3,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,3.46,7.68,Spain
+74482,4,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,3.46,7.68,Spain
+74482,5,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.16,6.98,Spain
+74482,6,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.16,6.98,Spain
+74482,7,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.90,6.24,Spain
+74482,8,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,6.30,4.84,Spain
+74482,9,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,6.30,4.84,Spain
+74482,10,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,7.00,4.14,Spain
+74482,11,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,5.56,5.58,Spain
+74482,12,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,2.10,9.04,Spain
+74482,13,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.90,6.24,Spain
+74482,14,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,2.06,9.08,Spain
+74482,15,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,2.06,9.08,Spain
+74482,16,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.86,6.28,Spain
+74482,17,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,8.40,2.74,Spain
+74482,18,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.90,6.24,Spain
+74482,19,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,3.46,7.68,Spain
+74482,21,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,6.96,4.18,Spain
+74482,22,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,6.96,4.18,Spain
+74482,23,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.90,6.24,Spain
+74482,24,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,3.46,7.68,Spain
+74482,25,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,6.30,4.84,Spain
+74482,26,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.86,6.28,Spain
+74482,27,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.16,6.98,Spain
+74482,28,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,4.16,6.98,Spain
+74482,29,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,7.70,3.44,Spain
+74482,30,New Product,Beauty & Personal Care,Shipped Full,2017-08-30 14:30:12,6.96,4.18,Spain
